@@ -1,0 +1,9 @@
+/.venv
+/.env
+/__pycache__
+/backend/__pycache__
+
+/chroma_db
+/uploads
+/backend/api/__pycache__
+/backend/core/__pycache__
