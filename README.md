@@ -96,7 +96,7 @@ rag_system/
 ### 1. Clone & Install
 
 ```bash
-git clone <repo-url>
+git clone <https://github.com/Tejakumar02/RAG_System>
 cd rag_system
 
 # Install dependencies + download NLTK data
@@ -245,9 +245,17 @@ Edit `.env` or modify `backend/config.py`:
 
 For sub-2s responses: use `gemma2:2b` or `phi3:mini` in Ollama.
 
----
 
-## 🛡️ Production Hardening (Next Steps)
+
+
+
+
+
+
+
+
+
+ 🛡️ Production Hardening (Next Steps)
 
 - [ ] Add API key authentication (`fastapi.security`)
 - [ ] Rate limiting (`slowapi`)
