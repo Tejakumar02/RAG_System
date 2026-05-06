@@ -96,7 +96,7 @@ rag_system/
 ### 1. Clone & Install
 
 ```bash
-git clone <https://github.com/Tejakumar02/RAG_System>
+git clone https://github.com/Tejakumar02/RAG_System.git
 cd rag_system
 
 # Install dependencies + download NLTK data
