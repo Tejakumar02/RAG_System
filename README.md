@@ -1,4 +1,4 @@
-# 🧠 DocMind — Production RAG System
+# 🧠 DocMind Production RAG System
 
 A complete **Retrieval-Augmented Generation** system built for production use.
 Upload PDFs, TXT, or DOCX files and ask natural-language questions against them.
